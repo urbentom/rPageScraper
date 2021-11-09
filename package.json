@@ -1,0 +1,17 @@
+{
+  "name": "rPageScraper",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/urbentom/rPageScraper.git",
+  "author": "Tom Léost <hello@urbentom.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/puppeteer": "^5.4.4",
+    "nodemon": "^2.0.14",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "puppeteer": "^11.0.0"
+  }
+}
